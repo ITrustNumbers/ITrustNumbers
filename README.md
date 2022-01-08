@@ -1,9 +1,10 @@
 ## Greatings Fellow Earthling, I am Yash Chauhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
-<img align="right" alt="GIF" src="https://github.com/ITrustNumbers/ITrustNumbers/blob/master/Assests/Programmer.gif?raw=true" width="450" height="280" />
-Welcome to my Github Profile, This is the home of my curated projects, experiments and some lossely packed ideas. 
+Welcome to my Github Profile, This is the home of my curated projects, experiments and some lossely packed ideas.   
 
 ### About Me:
+
+<img align="right" alt="GIF" src="https://github.com/ITrustNumbers/ITrustNumbers/blob/master/Assests/code.gif?raw=true" width="450" height="280" />
 
 * I am mainly interested in Artificial Intelligence, Machine Learning, Data Science and other related stuff. Some of my ML Projects:  
 
