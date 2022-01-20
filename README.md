@@ -10,7 +10,7 @@ Welcome to my Github Profile, This is the home of my curated projects, experimen
 
   * [Machine Learning Algorithms from Scratch | Current](https://github.com/ITrustNumbers/Machine_Learning_Algorithms_from_Scratch)
   * [Indian Coin Classification Using CNN | Finished](https://github.com/ITrustNumbers/Indian_Coin_Classification_Using_CNN)
-* Recently i am also been quite intrigued by the idea of open source contributions, I am fairly new to the open source landscape and I've just started contributing.
+* Recently, I've also been quite intrigued by the idea of open source contributions, I am fairly new to the open source landscape and I've just started contributing.
 Currently I am contributing to this wonderful project here:
   * [Basic Computer Games | Jeff Atwood](https://github.com/coding-horror/basic-computer-games)   
 
