@@ -1,6 +1,6 @@
 # Hey there! I'm Yash Chauhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
-### AI Engineer @ PwC | Building Enterprise AI Systems ☕
+### AI Engineer @ PwC | Building Enterprise AI Systems
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chauhan-yash">
@@ -25,20 +25,20 @@ When I'm not building AI systems, I'm probably experimenting with a new framewor
 
 ---
 
-# 🚀 What I Build
+# 🛠️What I Build
 
-- 🤖 Enterprise AI Applications
-- 🧠 LLM-powered Systems & AI Agents
-- 🔎 Retrieval-Augmented Generation (RAG) Applications
-- 🎙️ Real-time Speech AI & Voice Intelligence Pipelines
-- ⚡ High-performance Python Backend Services
-- ☁️ Cloud-native AI Applications
-- 👁️ Computer Vision Solutions
-- 🔐 AI-powered Security & Automation Systems
-- 📊 Machine Learning Systems from experimentation to production
+-  Enterprise AI Applications
+-  LLM-powered Systems & AI Agents
+-  Retrieval-Augmented Generation (RAG) Applications
+-  Real-time Speech AI & Voice Intelligence Pipelines
+-  High-performance Python Backend Services
+-  Cloud-native AI Applications
+-  Computer Vision Solutions
+-  AI-powered Security & Automation Systems
+-  Machine Learning Systems from experimentation to production
 
 
-# 🛠️ What I Work With
+#  What I Work With
 
 ## 💻 Languages
 
@@ -93,11 +93,11 @@ When I'm not building AI systems, I'm probably experimenting with a new framewor
 
 The journey never ends 🚀
 
-- 🌐 Distributed Computing & Distributed Systems
-- 🏗️ Large-scale AI System Design
-- 🚀 High-performance Model Serving
-- 📡 Real-time Distributed Applications
-- 🏭 Enterprise AI Architecture Patterns
+-  Distributed Computing & Distributed Systems
+-  Large-scale AI System Design
+-  High-performance Model Serving
+-  Real-time Distributed Applications
+-  Enterprise AI Architecture Patterns
 
 
 # 💬 Ask Me About
