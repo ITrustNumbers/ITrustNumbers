@@ -1,6 +1,6 @@
 # Hey there! I'm Yash Chauhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
-### AI Engineer @ PwC | Building Enterprise AI Systems
+### AI Engineer @ ElevanceHealth | Building Enterprise AI Systems
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chauhan-yash">
@@ -17,7 +17,7 @@
 
 Welcome to my corner of GitHub!
 
-I'm an **AI Engineer at PricewaterhouseCoopers (PwC)** focused on building production-ready AI systems, scalable backend services, and intelligent applications that solve real-world problems.
+I'm an **AI Engineer at ElevanceHealth** focused on building production-ready AI systems, scalable backend services, and intelligent applications that solve real-world problems.
 
 I enjoy working at the intersection of **Artificial Intelligence, Software Engineering, and Cloud Infrastructure** — transforming ideas into reliable systems that create real impact.
 
@@ -123,7 +123,7 @@ The journey never ends 🚀
 ```python
 class Yash:
     def __init__(self):
-        self.role = "AI Engineer @ PwC"
+        self.role = "AI Engineer @ ElevanceHealth"
 
         self.skills = [
             "Artificial Intelligence",
